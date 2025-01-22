@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Utils;
 
-namespace App
+namespace App.AppState
 {
     public class AppState : MonoBehaviour
     {
