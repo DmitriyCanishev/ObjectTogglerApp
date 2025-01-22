@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace App.ObjectToggler
+namespace ObjectToggler
 {
     [CreateAssetMenu(menuName = "ObjectTogglerMenu/ObjectTogglerControl")]
     public class ObjectTogglerControl : ScriptableObject

@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using App.ObjectToggler.Transitions;
+using ObjectToggler.Transitions;
 using UnityEngine;
 
-namespace App.ObjectToggler
+namespace ObjectToggler
 {
     [DisallowMultipleComponent]
     public class ObjectToggler : MonoBehaviour

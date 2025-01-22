@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using UnityEngine;
 
-namespace App.ObjectToggler.Transitions
+namespace ObjectToggler.Transitions
 {
     public abstract class AbstractTogglerTransition : ScriptableObject
     {

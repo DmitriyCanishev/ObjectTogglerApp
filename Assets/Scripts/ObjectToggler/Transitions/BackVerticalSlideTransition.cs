@@ -3,7 +3,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace App.ObjectToggler.Transitions
+namespace ObjectToggler.Transitions
 {
     [CreateAssetMenu(menuName = "ObjectTogglerMenu/Transitions/BackVerticalSlideTransition")]
     public class BackVerticalSlideTransition : AbstractTogglerTransition
